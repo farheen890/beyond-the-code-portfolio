@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BEYOND THE CODE — Farheen Meti
 
 An experimental, responsive personal portfolio built with React, TypeScript, Vite, and Lucide icons. The site emphasizes practical engineering, project status transparency, and an interest in Forward Deployed Engineering.
@@ -39,3 +40,7 @@ Edit `src/config.ts` and add only verified public details for `linkedin`, `email
 - The major project is labeled in development and does not claim unverified features or results.
 - StreetSnackSync is described as team work and links to the known repository.
 - Email, LinkedIn, and résumé links remain hidden until configured.
+=======
+# beyond-the-code-portfolio
+Personal portfolio showcasing my software engineering projects, AI applications, cybersecurity work, and journey toward becoming a Forward Deployed Engineer (FDE).
+>>>>>>> a99662312bc3ab7c5a169aed61c82d6af752d374
